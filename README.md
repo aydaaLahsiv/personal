@@ -1,1 +1,1 @@
-<img alt="Travis (.com)" src="https://img.shields.io/travis/com/rvishal/personal?style=plastic">
+<img alt="Travis (.com)" src="https://travis-ci.org/rvishal/personal.svg?branch=master">
