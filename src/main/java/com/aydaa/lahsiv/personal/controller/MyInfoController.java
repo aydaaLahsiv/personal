@@ -12,7 +12,8 @@ public class MyInfoController {
 
     @GetMapping
     public MyInfo getMyInfobyUserName(String userName) {
-        MyInfo myInfo = new MyInfo();
+        MyInfo myInfo = new MyInfo("BobB", "Hcanciahn18anvkav", "Bob Johnson", "New York");
+
         return myInfo;
     }
 }
