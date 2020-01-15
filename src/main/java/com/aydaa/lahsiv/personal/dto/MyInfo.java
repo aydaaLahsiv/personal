@@ -10,6 +10,10 @@ public class MyInfo {
 
     String city;
 
+    MyInfo() {
+
+    }
+
     public MyInfo(String userName, String password, String name, String city) {
         this.userName = userName;
         this.password = password;
